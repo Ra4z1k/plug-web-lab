@@ -6,11 +6,11 @@ url_style = relative
 [servers.ghpages]
 enabled = yes
 name = Github pages on repo
-target = ghpages://lektor/lektor-website?cname=asdsad.team4.devopstg.linux.org.pl
+target = ghpages://Ra4z1k/plug-web-lab?cname=asdsad.team4.devopstg.linux.org.pl
 default = yes
 
 [servers.ghpages-https]
 enabled = yes
 name = Github pages on repo
-target = ghpages+https://lektor/lektor-website?cname=asdsad.team4.devopstg.linux.org.pl
+target = ghpages+https://Ra4z1k/plug-web-lab?cname=asdsad.team4.devopstg.linux.org.pl
 default = not
